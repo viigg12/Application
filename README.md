@@ -3,5 +3,8 @@
 
 Developer A making change to the code
 
-# Application Developer B
+Application Developer B
+
+
+Developer B making changes to commit
 
