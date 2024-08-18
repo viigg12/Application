@@ -1,1 +1,1 @@
-Git merge revamp
+How to merge the files
